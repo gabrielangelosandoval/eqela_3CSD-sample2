@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sample2
+#
+
+projectname: sample2
+vendorid: com.gabrielsandoval
+mainmodule: com.gabrielsandoval.sample2
